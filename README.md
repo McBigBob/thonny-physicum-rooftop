@@ -11,9 +11,9 @@ Enhance your coding experience with a live view from the University of Tartu Phy
 
 **How to Install:**
 
-1. Download the `thonny-physicum-rooftop-1.0.0.tar.gz` file from the releases.
+1. Download the `thonny-physicum-rooftop-1.1.1.tar.gz` file from the releases.
 2. Open Thonny and go to `Tools` >> `Manage plug-ins` >> `Install from local file`.
-3. Select the downloaded `thonny-physicum-rooftop-1.0.0.tar.gz` file and click **`OK`**.
+3. Select the downloaded `thonny-physicum-rooftop-1.1.1.tar.gz` file and click **`OK`**.
 4. Allow Thonny to complete the extraction.
 5. Restart Thonny to apply the changes.
 6. Locate the Physicum Rooftop option in the `View` tab and toggle it on.
